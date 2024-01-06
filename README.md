@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Wasib.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on python now.
+- 🌱 
+- 💞️ 
 - 📫 How to reach me not available
 
 <!---
