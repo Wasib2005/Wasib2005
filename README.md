@@ -1,5 +1,11 @@
 - 👋 Hi, I’m Wasib.
 - 👀 I’m interested in programming.
+- 🌱 Python (Learning)
+- 🌱 Adobe Photoshop, Illustrator (Not interested)
+- 🌱 Html (likely Complete)
+- 🌱 CSS (likely Complete)
+- 🌱 JavaScript (Learning)
+- 🌱 Blender (Interested)
 - 🌱 
 - 💞️ 
 - 📫 How to reach me not available
