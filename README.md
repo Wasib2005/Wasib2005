@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Waslla.
-- 👀 I’m interested in programming.
+👋 Hi, I’m Waslla.
+👀 I’m interested in programming.
   
 My current skills and interest!!!
   
