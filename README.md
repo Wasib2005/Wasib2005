@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Waslla.
 - 👀 I’m interested in programming.
   
-  My current skills and interest!!!
+My current skills and interest!!!
   
 - 🌱 Html (kind of Complete)
 - 🌱 CSS (kind of Complete)
@@ -13,7 +13,7 @@
 - 🌱 Linux (Support interested)
 - 🌱 Computer Part (Support interested)
 
-  My hobbies!!!
+My hobbies!!!
 
 - 🛑 Play Game (I played almost all genres of game but now I now lost interest)
 - 🛑 Watch Anime
