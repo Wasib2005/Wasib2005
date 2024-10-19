@@ -1,24 +1,35 @@
 👋 Hi, I’m Wasib.
 
-👀 I’m interested in programming.
+👀 I'm passionate about programming and exploring the world of computers.
   
 My current skills and interest!!!
-  
-- 🌱 Html (kind of Complete)
-- 🌱 CSS (kind of Complete)
-- 🌱 JavaScript (kind of Complete)
-- 🌱 React (Learning)
-- 🌱 Python (Not interested)
-- 🌱 Adobe Photoshop, Illustrator (Not interested)
-- 🌱 Blender (Interested)
-- 🌱 Linux (Support interested)
-- 🌱 Computer Part (Support interested)
+- My Programming Journey:
+  <br/>
+  <br/>
+  - 🌱 🌐 HTML (Intermediate)
+  - 🌱 🎨 CSS (Intermediate)
+  - 🌱 ☕ JavaScript (Intermediate)
+  - 🌱 ⚛️ React (Learning)
+<br/>
+<br/>
+<br/>
 
-My hobbies!!!
+- Other Interests:
+  <br/>
+  <br/>
+  - 🌱 Linux (Support Enthusiast)
+  - 🌱 Python (Support Enthusiast)
+  - 🌱 Computer Hardware (Support Enthusiast)
+  - 🌱 ✨ Blender 3D (Interested in Learning)
+<br/>
+<br/>
+<br/>
 
-- 🛑 Play Game (I played almost all genres of game but now I now lost interest)
-- 🛑 Watch Anime
-- 🛑 Read Manga, Light Novel etc
+- Hobbies:
+  <br/>
+  <br/>
+  - 🛑 Exploring different video game genres (though I'm currently taking a break!)
+  - 🛑 Watching anime and reading manga/light novels.
 
 
 - 💞️
