@@ -1,4 +1,4 @@
-👋 Hi, I’m Waslla.
+👋 Hi, I’m Wasib.
 
 👀 I’m interested in programming.
   
